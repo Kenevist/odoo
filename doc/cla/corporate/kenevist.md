@@ -11,7 +11,9 @@ Signed,
 Pouya Malekinejad kenevist@gmail.com https://github.com/kenevist
 
 List of contributors:
+
+Kenevist  kenevist@gmail.com https://github.com/kenevist
 Maryam Kia kia@kenevist.ir https://github.com/MaryamKia
 Pouya Malekinejad pmn@kenevist.ir https://github.com/pouyamn
-Pouya Malekinejad pouya.malekinejad@gmmail.com https://github.com/pouyamn
+Pouya Malekinejad pouya.malekinejad@gmail.com https://github.com/pouyamn
 
